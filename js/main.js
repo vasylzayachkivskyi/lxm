@@ -1,0 +1,1 @@
+$((function(){$(".footer__btn--up").on("click",(function(){return $("body,html").animate({scrollTop:0},0),!1}))}));
